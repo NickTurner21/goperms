@@ -1,4 +1,0 @@
---patch-module
-goperms=_
---add-reads
-goperms=ALL-UNNAMED
