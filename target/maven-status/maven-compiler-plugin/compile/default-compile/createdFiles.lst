@@ -1,0 +1,11 @@
+module-info.class
+me/poket/goperms/util/DataUtil$1.class
+me/poket/goperms/GoPerms.class
+me/poket/goperms/PermissionGroup.class
+me/poket/goperms/PermissionItem.class
+me/poket/goperms/util/DataUtil.class
+me/poket/goperms/listeners/PlayerLeaveListener.class
+me/poket/goperms/PermissionPlayer.class
+me/poket/goperms/listeners/PlayerJoinListener.class
+me/poket/goperms/util/DataUtil$2.class
+me/poket/goperms/util/PlayerUtil.class
